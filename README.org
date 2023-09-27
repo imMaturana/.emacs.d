@@ -1,12 +1,12 @@
 * My Emacs Configuration (WIP)
-Welcome to my personal emacs configuration using org-mode and babel.
+Welcome to my personal [[https://www.gnu.org/software/emacs/][Emacs]] configuration using [[https://orgmode.org/][Org Mode]].
 
 ** Todo
 - Add some comments to the configuration.
 - A lot more..
 
 * LICENSE
-This repository is under the WTFPL license.
+This repository is under the [[http://www.wtfpl.net/][WTFPL]] license.
 
 #+BEGIN_SRC
               DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
